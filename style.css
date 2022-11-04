@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+  }
+
+.div-1 {
+    background-color: palevioletred;
+    height: 200px;
+    width: 400px;
+    font-size:30px;   
+    color: ivory;
+    display: flex;
+    align-items: center;
+    background-position: right 30px;
+}
+
+.div-2 {
+    background-color: mediumorchid; 
+    height: 200px;
+    width: 500px;
+    font-size:30px;   
+    color: plum; 
+}
+     
+.div-3 {
+    background-color: thistle; 
+    height: 200px;
+    width: 600px;
+    font-size:30px;   
+    color: orchid; 
+}
+.utube{
+    color: plum;
+    align-items: center;
+} a{
+    background-color: rgb(17, 17, 17);
+    height: 100px;
+    width: 100px;
+    color:  peru;
+} h1{
+    color: palegoldenrod;
+} h6{
+    color: palevioletred;
+    font-weight: 100000;
+}
+
+.git {
+    color: khaki;
+} img{
+    align-items: center;
+}
+  
+  
