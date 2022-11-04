@@ -48,5 +48,11 @@ body {
 } img{
     align-items: center;
 }
+.community {
+    color: rebeccapurple;
+} a {
+    color: skyblue;
+    background-color: darkcyan;
+}
   
   
